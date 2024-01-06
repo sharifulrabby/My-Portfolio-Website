@@ -118,3 +118,13 @@ main{
 .about-info{
     text-align: center;
 }
+
+/* WHAT I DO SECTION STYLE */
+
+#what-i-do-paragraph{
+    padding: 30px 150px;
+}
+
+.skills-container{
+    display: flex;
+}
